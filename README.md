@@ -9,7 +9,9 @@ Includes two offers on items:
 - Buy one, get one free on Apples
 - 3 for the price of 2 on Oranges
 
-## Environment Setup
+## Installation
+
+### Requirements
 
 Make sure you have [Node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/) installed.
 
@@ -30,7 +32,7 @@ tsc —help
 Compile the checkout.ts file and run it.
 
 ```bash
-ts-node checkout.ts # returns console.log of Total cost
+ts-node checkout.ts # returns Total cost as string e.g £2.05 and a console.log of output
 ```
 
 Check the console logs to see the output, they're present for demo purposes.<br>
