@@ -30,8 +30,8 @@ tsc —help
 Compile the checkout.ts file and run it.
 
 ```bash
-ts-node checkout.ts
+ts-node checkout.ts # returns console.log of Total cost
 ```
 
-Check the console logs to see the output, they're present for demo purposes.
+Check the console logs to see the output, they're present for demo purposes.<br>
 Change the array in checkout.ts by adding or removing Apples and/or Oranges and rerun the command to see a different total cost output.
