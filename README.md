@@ -15,7 +15,7 @@ Includes two offers on items:
 
 Make sure you have [Node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/) installed.
 
-Install the typescript and ts-node npm packages to compile and run the Typescript files.
+Use npm to install the typescript and ts-node packages to compile and run the Typescript file.
 
 ```bash
 npm install -g typescript ts-node
