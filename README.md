@@ -21,7 +21,7 @@ Use npm to install the typescript and ts-node packages to compile and run the Ty
 npm install -g typescript ts-node
 ```
 
-Check for successful typescript module install by running the command and seeing the options without an error.
+Check for a successful typescript module install by running the command and seeing the options without an error.
 
 ```bash
 tsc —help
