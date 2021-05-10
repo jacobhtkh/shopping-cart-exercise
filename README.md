@@ -13,13 +13,13 @@ Includes two offers on items:
 
 Make sure you have [Node](https://nodejs.org/en/) and [npm](https://nodejs.org/en/) installed.
 
-Install the typescript and ts-node npm packages to compile and run the Typescript files:
+Install the typescript and ts-node npm packages to compile and run the Typescript files.
 
 ```bash
 npm install -g typescript ts-node
 ```
 
-Check for successful typescript module install by running the command and seeing the options without an error:
+Check for successful typescript module install by running the command and seeing the options without an error.
 
 ```bash
 tsc —help
@@ -33,5 +33,5 @@ Compile the checkout.ts file and run it.
 ts-node checkout.ts
 ```
 
-Check the console logs to see the output.
-Change the array in checkout.ts to see different total cost outputs.
+Check the console logs to see the output, they're present for demo purposes.
+Change the array in checkout.ts by adding or removing Apples and/or Oranges and rerun the command to see a different total cost output.
