@@ -32,7 +32,7 @@ tsc —help
 Compile the checkout.ts file and run it.
 
 ```bash
-ts-node checkout.ts # returns Total cost as string e.g £2.05 and a console.log of output
+ts-node checkout.ts # returns the total cost as a string e.g £2.05 along with a console.log of the output
 ```
 
 Check the console logs to see the output, they're present for demo purposes.<br>
